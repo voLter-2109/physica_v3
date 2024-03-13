@@ -17,4 +17,4 @@
 
 ```
 
-![example page](https://github.com/voLter-2109/physica_v3/tree/main/frontend.jpg)
+![example page](https://github.com/voLter-2109/physica_v3/blob/main/frontend.jpg)
